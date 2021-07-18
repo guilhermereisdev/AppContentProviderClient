@@ -1,0 +1,2 @@
+br/com/guilhermereisapps/appcontentproviderclient/BuildConfig.java
+ br.com.guilhermereisapps.appcontentproviderclient.BuildConfig
